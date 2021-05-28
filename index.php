@@ -8,7 +8,6 @@ $memoryresult = mysqli_query($conn, $memory);
 $proc = 'SELECT * FROM processor';
 $procresult = mysqli_query($conn, $proc);
 ?>
-!
 <!DOCTYPE html>
 <html lang="en">
     <head>
