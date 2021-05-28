@@ -9,5 +9,5 @@ Tabel :
 ![image](https://user-images.githubusercontent.com/46300525/119994017-673f6500-bff6-11eb-90b9-5d5e727d1598.png)
 
 Hasil :
-![image](https://user-images.githubusercontent.com/46300525/120005845-762c1480-c002-11eb-996f-8f05ab33d699.png)
+![image](https://user-images.githubusercontent.com/46300525/120006269-f05c9900-c002-11eb-9655-d5a651b5e64a.png)
 
