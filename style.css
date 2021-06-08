@@ -1,26 +1,95 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
 
 body {
     font-family: 'poppins';
-    font-size: 0.8em;
+    background-color: #1d3557;;
+    color: #fff;
 }
 
 table {
     border-collapse: collapse;
+    margin: 20px 0px;
+    color:rgb(37, 37, 37);
 }
 
 td {
     border: 1px solid #c1c1c1;
-    padding: 5px;
+    padding: 10px;
 }
 
 th {
     border: 1px solid #c1c1c1;
-    padding: 5px 50px;
+    padding: 15px;
+    background-color: #e7e7e7;
 }
 
-.mini {
+
+a {
+    text-decoration: none;
+}
+
+.input {
+    display:grid;
+    padding : 5px 0px;
+    
+}
+
+label {
+    margin: 5px 0px;
+    color: #1d3557;
+    font-weight: 500;
+}
+
+
+.input input, select {
+    padding : 15px;
+    font-family: 'poppins' , 'sans-serif';
+    font-size: 1em;
+    border-radius: 5px;
+    background-color: #efefef;
+    border: 0px;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 20px;
+    margin: 20px 0px;
+    cursor: pointer;
+    font-family: 'poppins' , 'sans-serif';
     border: 1px solid #c1c1c1;
-    padding: 5px;
+    border-radius: 10px;
 }
 
+
+.containers {
+    width: 45%;
+    margin: 1em auto;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+.containers h2 {
+    text-align: center;
+    color: #1d3557;
+    font-weight: 600;
+}
+
+hr {
+    margin : 20px 0;
+}
+
+.mains table{
+    display: inline;
+
+}
+
+.tab {
+    margin-right : 10px;
+}
+
+.tab td {
+    width: 50%;
+    text-align: center;
+}
