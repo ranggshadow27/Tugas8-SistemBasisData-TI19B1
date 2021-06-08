@@ -3,11 +3,13 @@
 Rangga Tito Prayogo - TI 19 B1
 
 Tabel :
-![image](https://user-images.githubusercontent.com/46300525/119993829-36f7c680-bff6-11eb-9eba-466ad1e5fe3d.png)
-![image](https://user-images.githubusercontent.com/46300525/119993876-4414b580-bff6-11eb-9cb8-37f5fa933676.png)
-![image](https://user-images.githubusercontent.com/46300525/119993951-568eef00-bff6-11eb-9498-1064c80745c9.png)
-![image](https://user-images.githubusercontent.com/46300525/119994017-673f6500-bff6-11eb-90b9-5d5e727d1598.png)
+![image](https://user-images.githubusercontent.com/46300525/121117228-014aad00-c842-11eb-9b2a-4d8897167303.png)
+![image](https://user-images.githubusercontent.com/46300525/121117256-0b6cab80-c842-11eb-926e-a8a4adbaa00d.png)
+![image](https://user-images.githubusercontent.com/46300525/121117308-1f181200-c842-11eb-8d14-a72a5da8c74b.png)
+
 
 Hasil :
-![image](https://user-images.githubusercontent.com/46300525/120006269-f05c9900-c002-11eb-9655-d5a651b5e64a.png)
+![image](https://user-images.githubusercontent.com/46300525/121117524-75855080-c842-11eb-82af-23a239b1cf0d.png)
+![image](https://user-images.githubusercontent.com/46300525/121117602-99e12d00-c842-11eb-8aa8-ddb00917c931.png)
+
 
